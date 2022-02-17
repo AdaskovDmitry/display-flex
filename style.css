@@ -195,14 +195,25 @@ div{
 }
 .nav-item{
     border: 1px solid black;
-    height: 19px;
-    width: 120px;
+    height: 29px;
+    width: 280px;
     text-align: center;
-    padding: 15px;
+    padding-top: 10px;
+    padding-bottom: 15px;
     border-radius: 9px;
     font-size: 25px;
     background-color: lavender;
+    cursor: pointer;
+    box-shadow: 1px 2px 2px 0.5px grey;
+}
+.nav-item:hover{
+    font-size: 26px;
+    cursor: pointer;
+    background-color: salmon;
+    transition: 0.2s;
+    box-shadow: inset 1px 1px 4px 1px grey;
 }
 a{
     text-decoration: none;
 }
+
