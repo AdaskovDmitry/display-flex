@@ -9,7 +9,8 @@ h1{
     font-family: 'Times New Roman', Times, serif;
 }
 .flex{
-    margin: 0;
+    margin-top: 50px;
+    margin-left: 0;
     background-image: url(img/shop.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -181,4 +182,27 @@ div{
     transition: 0.2s;
     cursor: pointer;
     box-shadow: inset 1px 1px 4px 1px grey;
+}
+.justify-content-center{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    list-style-type: none;
+
+}
+.nav-item{
+    border: 1px solid black;
+    height: 19px;
+    width: 120px;
+    text-align: center;
+    padding: 15px;
+    border-radius: 9px;
+    font-size: 25px;
+    background-color: lavender;
+}
+a{
+    text-decoration: none;
 }
