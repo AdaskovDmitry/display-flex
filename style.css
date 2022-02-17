@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    color: gray;
+    font-size: 38px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.flex{
+    margin: 0;
+    background-image: url(img/shop.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content:space-around;
+    flex-direction: row;
+    background-color: gray;
+    border: 1px solid black;
+
+}
+div{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    /*padding-top: 10px;*/
+    margin: 10px;
+    border: 1px solid black;
+    background-color: white;
+    width: 240px;
+}
+.m574{
+    position: fixed;
+    top: 200px;
+    height: 160px;
+    width: 180px;
+}
+.m5740{
+    position: fixed;
+    top: 190px;
+    height: 200px;
+    width: 180px;
+}
+.m997{
+    position: fixed;
+    top: 190px;
+    height: 160px;
+    width: 180px;
+}
