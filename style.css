@@ -63,6 +63,7 @@ div{
     width: 190px;
     font-family: Andale Mono, monospace;
     font-size: 16px;
+    box-shadow: 1px 1px 2px 1px grey;
 }
 .check2{
     position: relative;
@@ -76,6 +77,7 @@ div{
     width: 190px;
     font-family: Andale Mono, monospace;
     font-size: 16px;
+    box-shadow: 1px 1px 2px 1px grey;
 }
 .check3{
     position: relative;
@@ -89,6 +91,7 @@ div{
     width: 190px;
     font-family: Andale Mono, monospace;
     font-size: 16px;
+    box-shadow: 1px 1px 2px 1px grey;
 }
 .check1:hover{
     border: 3px solid darkcyan;
@@ -97,6 +100,7 @@ div{
     font-size: 17px;
     transition: 0.2s;
     cursor: pointer;
+    box-shadow: inset 1px 1px 4px 1px grey;
 }
 .check2:hover{
     border: 3px solid darkcyan;
@@ -105,6 +109,7 @@ div{
     font-size: 17px;
     transition: 0.2s;
     cursor: pointer;
+    box-shadow: inset 1px 1px 4px 1px grey;
 }
 .check3:hover{
     border: 3px solid darkcyan;
@@ -113,6 +118,7 @@ div{
     font-size: 17px;
     transition: 0.2s;
     cursor: pointer;
+    box-shadow: inset 1px 1px 4px 1px grey;
 }
 .buy1{
     height: 50px;
@@ -123,6 +129,7 @@ div{
     position: relative;
     top: 183px;
     font-size: 16px;
+    box-shadow: 1px 1px 2px 1px grey;
 }
 .buy2{
     height: 50px;
@@ -133,6 +140,7 @@ div{
     position: relative;
     top: 183px;
     font-size: 16px;
+    box-shadow: 1px 1px 2px 1px grey;
 }
 .buy3{
     height: 50px;
@@ -143,6 +151,7 @@ div{
     position: relative;
     top: 183px;
     font-size: 16px;
+    box-shadow: 1px 1px 2px 1px grey;
 }
 .buy1:hover{
     border: 3px solid darkcyan;
@@ -151,6 +160,8 @@ div{
     font-size: 17px;
     transition: 0.2s;
     cursor: pointer;
+    cursor: pointer;
+    box-shadow: inset 1px 1px 4px 1px grey;
 }
 .buy2:hover{
     border: 3px solid darkcyan;
@@ -159,6 +170,8 @@ div{
     font-size: 17px;
     transition: 0.2s;
     cursor: pointer;
+    cursor: pointer;
+    box-shadow: inset 1px 1px 4px 1px grey;
 }
 .buy3:hover{
     border: 3px solid darkcyan;
@@ -167,4 +180,5 @@ div{
     font-size: 17px;
     transition: 0.2s;
     cursor: pointer;
+    box-shadow: inset 1px 1px 4px 1px grey;
 }
