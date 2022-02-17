@@ -20,7 +20,7 @@ h1{
     flex-direction: row;
     background-color: gray;
     border: 1px solid black;
-
+    border-radius: 28px;
 }
 div{
     font-size: 15px;
@@ -29,6 +29,7 @@ div{
     /*padding-top: 10px;*/
     margin: 10px;
     border: 1px solid black;
+    border-radius: 28px;
     background-color: white;
     width: 240px;
 }
@@ -49,4 +50,19 @@ div{
     top: 190px;
     height: 160px;
     width: 180px;
+}
+.check1{
+    position: relative;
+    top: 190px;
+    left: auto;
+}
+.check2{
+    position: relative;
+    top: 190px;
+    left: auto;
+}
+.check3{
+    position: relative;
+    top: 190px;
+    left: auto;
 }
