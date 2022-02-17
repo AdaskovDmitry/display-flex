@@ -92,16 +92,79 @@ div{
 }
 .check1:hover{
     border: 3px solid darkcyan;
+    background-color: antiquewhite;
+    color: black;
     font-size: 17px;
     transition: 0.2s;
+    cursor: pointer;
 }
 .check2:hover{
     border: 3px solid darkcyan;
+    background-color: antiquewhite;
+    color: black;
     font-size: 17px;
     transition: 0.2s;
+    cursor: pointer;
 }
 .check3:hover{
     border: 3px solid darkcyan;
+    background-color: antiquewhite;
+    color: black;
     font-size: 17px;
     transition: 0.2s;
+    cursor: pointer;
+}
+.buy1{
+    height: 50px;
+    width: 190px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-family: Andale Mono, monospace;
+    position: relative;
+    top: 183px;
+    font-size: 16px;
+}
+.buy2{
+    height: 50px;
+    width: 190px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-family: Andale Mono, monospace;
+    position: relative;
+    top: 183px;
+    font-size: 16px;
+}
+.buy3{
+    height: 50px;
+    width: 190px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-family: Andale Mono, monospace;
+    position: relative;
+    top: 183px;
+    font-size: 16px;
+}
+.buy1:hover{
+    border: 3px solid darkcyan;
+    background-color: darkseagreen;
+    color: black;
+    font-size: 17px;
+    transition: 0.2s;
+    cursor: pointer;
+}
+.buy2:hover{
+    border: 3px solid darkcyan;
+    background-color: darkseagreen;
+    color: black;
+    font-size: 17px;
+    transition: 0.2s;
+    cursor: pointer;
+}
+.buy3:hover{
+    border: 3px solid darkcyan;
+    background-color: darkseagreen;
+    color: black;
+    font-size: 17px;
+    transition: 0.2s;
+    cursor: pointer;
 }
